@@ -1,0 +1,21 @@
+[14-Jun-2020 13:23:18 Asia/Tashkent] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/eparkuz/e-commerce/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[14-Jun-2020 13:23:22 Asia/Tashkent] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/eparkuz/e-commerce/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[14-Jun-2020 13:23:29 Asia/Tashkent] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/eparkuz/e-commerce/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[14-Jun-2020 13:24:03 Asia/Tashkent] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/eparkuz/e-commerce/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[14-Jun-2020 13:25:50 Asia/Tashkent] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/eparkuz/e-commerce/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[14-Jun-2020 13:25:57 Asia/Tashkent] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/eparkuz/e-commerce/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[15-Jun-2020 12:40:36 Asia/Tashkent] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/eparkuz/e-commerce/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[15-Jun-2020 12:40:38 Asia/Tashkent] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/eparkuz/e-commerce/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[15-Jun-2020 12:40:39 Asia/Tashkent] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/eparkuz/e-commerce/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[15-Jun-2020 12:40:40 Asia/Tashkent] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/eparkuz/e-commerce/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[15-Jun-2020 12:40:40 Asia/Tashkent] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/eparkuz/e-commerce/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[15-Jun-2020 12:40:43 Asia/Tashkent] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/eparkuz/e-commerce/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[15-Jun-2020 12:40:47 Asia/Tashkent] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/eparkuz/e-commerce/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[15-Jun-2020 12:40:56 Asia/Tashkent] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/eparkuz/e-commerce/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[18-Jun-2020 19:33:11 Asia/Tashkent] PHP Warning:  require(/home/eparkuz/backend.epark.uz/../e-commerce/vendor/autoload.php): failed to open stream: No such file or directory in /home/eparkuz/backend.epark.uz/index.php on line 24
+[18-Jun-2020 19:33:11 Asia/Tashkent] PHP Warning:  require(/home/eparkuz/backend.epark.uz/../e-commerce/vendor/autoload.php): failed to open stream: No such file or directory in /home/eparkuz/backend.epark.uz/index.php on line 24
+[18-Jun-2020 19:33:11 Asia/Tashkent] PHP Fatal error:  require(): Failed opening required '/home/eparkuz/backend.epark.uz/../e-commerce/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/eparkuz/backend.epark.uz/index.php on line 24
+[18-Jun-2020 19:33:13 Asia/Tashkent] PHP Warning:  require(/home/eparkuz/backend.epark.uz/../e-commerce/vendor/autoload.php): failed to open stream: No such file or directory in /home/eparkuz/backend.epark.uz/index.php on line 24
+[18-Jun-2020 19:33:13 Asia/Tashkent] PHP Warning:  require(/home/eparkuz/backend.epark.uz/../e-commerce/vendor/autoload.php): failed to open stream: No such file or directory in /home/eparkuz/backend.epark.uz/index.php on line 24
+[18-Jun-2020 19:33:13 Asia/Tashkent] PHP Fatal error:  require(): Failed opening required '/home/eparkuz/backend.epark.uz/../e-commerce/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/eparkuz/backend.epark.uz/index.php on line 24
+[18-Jun-2020 19:39:52 Asia/Tashkent] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/eparkuz/e-commerce/vendor/symfony/polyfill-php80/bootstrap.php on line 23
